@@ -1,0 +1,7 @@
+score1 = 80
+score2 = 90
+
+# The logic bug is here
+average = score1 + score2 / 2
+
+print(average)
